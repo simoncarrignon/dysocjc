@@ -1,3 +1,5 @@
+![DySoc Logo](http://www.dysoc.org/images/dysocbanner.png)
+
 # List of potential papers
 
 

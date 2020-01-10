@@ -1,3 +1,5 @@
+![DySoc Logo](http://www.dysoc.org/images/dysocbanner.png)
+
 # Schedule of DySoC Journal Club
 
 
