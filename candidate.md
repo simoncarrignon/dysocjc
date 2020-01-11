@@ -31,6 +31,7 @@ various:
 * more link and answers to answers:https://twitter.com/PatrickESavage/status/1171222989607559168o
 * Andre costopoulos agrees: https://twitter.com/UncertainArch/status/1171591817596456961
 
+## AI in
 
 ## Evolution of technologies
 
