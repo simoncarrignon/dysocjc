@@ -1,8 +1,22 @@
 ![DySoc Logo](http://www.dysoc.org/images/dysocbanner.png)
 
-# List of potential papers
+# Schedule of DySoC Journal Club
 
 
+|Date|Presenter| Papers/thematics|
+|----|----|----|
+|01/10|TBD|Organisational meeting|
+|01/21|TBD|TBD|
+|02/11|TBD|TBD|
+|02/18|TBD|TBD|
+|02/25|TBD|TBD|
+|03/31|TBD|TBD|
+|04/14|TBD|TBD|
+|04/21|TBD|TBD|
+|04/28|TBD|TBD|
+
+
+# List of topics and potential papers
 
 ## Digital Social Norm Enforcement: 
 
@@ -31,9 +45,11 @@ various:
 * more link and answers to answers:https://twitter.com/PatrickESavage/status/1171222989607559168o
 * Andre costopoulos agrees: https://twitter.com/UncertainArch/status/1171591817596456961
 
-## AI in
+## Climate Change and Social 
 
-## Evolution of technologies
+## Effect of Big Revolution on the Eovlution of Society 
 
-|Title|Authors|year|url|pdf|
-|----|----|----|----|
+
+## Debates and Issues around data (big data, AI generated data,...)
+
+
