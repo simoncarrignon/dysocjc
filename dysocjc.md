@@ -22,7 +22,7 @@ Go to: | [Schedule](#schedule)| [Topics](#topics)|
 |04/20|TBD|TBD|
 |04/27|TBD|TBD|
 
-If you want to add this list to your own calendar import or follow [this link]( webcal://framagenda.org/remote.php/dav/public-calendars/7HyRTwnZzdLiRjGf?export)
+If you want to add this list to your own calendar import or follow [this link](webcal://framagenda.org/remote.php/dav/public-calendars/7HyRTwnZzdLiRjGf?export)
 
 # List of topics and potential papers {#topics}
 
