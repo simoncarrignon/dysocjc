@@ -7,6 +7,8 @@ output:
 
 Go to: | [Schedule](#schedule)| [Topics](#topics)|
 
+If you want to modify this page yourself from [github](https://github.com/simoncarrignon/dysocjc/edit/master/dysocjc.Rmd) or from [gitlab](https://framagit.org/-/ide/project/sc/dysocjournalclub/edit/master/-/dysocjc.Rmd)
+
 # Schedule of DySoC Journal Club {#schedule}
 
 
