@@ -1,55 +1,67 @@
-![DySoc Logo](http://www.dysoc.org/images/dysocbanner.png)
+---
+output:
+    bookdown::html_document2: default
+---
 
-# Schedule of DySoC Journal Club
+[![dysoclogdysoclogeo](http://www.dysoc.org/images/dysocbanner.png)](http://www.dysoc.org)
+
+Go to: | [Schedule](#schedule)| [Topics](#topics)|
+
+# Schedule of DySoC Journal Club {#schedule}
 
 
 |Date|Presenter| Papers/thematics|
-|----|----|----|
-|01/10|TBD|Organisational meeting|
-|01/21|TBD|TBD|
-|02/11|TBD|TBD|
-|02/18|TBD|TBD|
-|02/25|TBD|TBD|
-|03/31|TBD|TBD|
-|04/14|TBD|TBD|
-|04/21|TBD|TBD|
-|04/28|TBD|TBD|
+|----|----|----------|
+|01/10|NA|Organisational meeting|
+|01/27|TBD|[Evolution of Moralizing Gods]|
+|02/10|TBD|TBD|
+|02/24|TBD|TBD|
+|03/09|TBD|TBD|
+|03/23|TBD|TBD|
+|04/06|TBD|TBD|
+|04/20|TBD|TBD|
+|04/27|TBD|TBD|
 
+If you want to add this list to your own calendar import or follow [this link]( webcal://framagenda.org/remote.php/dav/public-calendars/7HyRTwnZzdLiRjGf?export)
 
-# List of topics and potential papers
+# List of topics and potential papers {#topics}
 
 ## Digital Social Norm Enforcement: 
 
-|Title|url|pdf|
-|----|----|----|
-| Digital Social Norm Enforcement: Online Firestorms in Social Media | [plosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155923) | [pdf/rost2016digitalsocialnorm.pdf](pdf/rost2016digitalsocialnorm.pdf)|
-| The digital outcry: What incites participation behavior in an online firestorm? | [sagepub](https://journals.sagepub.com/doi/abs/10.1177/1461444817741883) | [pdf/johnen2017thedigitaloutcry.pdf](pdf/johnen2017thedigitaloutcry.pdf)|
-| Normative Change and Culture of Hate: An Experiment in Online Environments | [academic.oup.com](https://academic.oup.com/esr/article/34/3/223/4944213)|[pdf/alvarezbenjumea2018normativechangeandcultureofhate.pdf](pdf/alvarezbenjumea2018normativechangeandcultureofhate.pdf)|
+
+
+ Title of the paper |Date | Authors |Url of paper | pdf 
+--------------------------------------------|-----|-------|----|-------
+Online Firestorms in Social Media | 2016 | Rost et al|  [plosOne](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155923) | [pdf](pdf/rost2016digitalsocialnorm.pdf)
+The digital outcry: What incites participation behavior in an online firestorm? | 2017 | Johnen et al. | [sagepub](https://journals.sagepub.com/doi/abs/10.1177/1461444817741883) | [pdf](pdf/johnen2017thedigitaloutcry.pdf)
+Normative Change and Culture of Hate: An Experiment in Online Environments| 2018 | Alvarez et al. | [academic.oup.com](https://academic.oup.com/esr/article/34/3/223/4944213)|[pdf](pdf/alvarezbenjumea2018normativechangeandcultureofhate.pdf)
 
 
 ## Evolution of Moralizing Gods
 
-|Title|url|pdf|
-|----|----|----|
-| Complex societies precede moralizing gods throughout world history| [nature](https://www.nature.com/articles/s41586-019-1043-4) | [pdf/whitehouse2019complexsocietiesprecemoralizinggods.pdf](pdf/whitehouse2019complexsocietiesprecemoralizinggods.pdf)|
-| Corrected analyses show that moralizing gods precede complex societies but serious data concerns remain| [psyarxiv](https://psyarxiv.com/jwa2n/) | |
-|Historians Respond to Whitehouse et al.(2019)|https://psyarxiv.com/2amjz/||
+ Title of the paper |Date | Authors |Url of paper | pdf
+--------------------------------------------|-----|-------|----|-------
+ Complex societies precede moralizing gods throughout world history | 2019  |Whitehouse et al. | [nature](https://www.nature.com/articles/s41586-019-1043-4) | [pdf](pdf/whitehouse2019complexsocietiesprecemoralizinggods.pdf)
+Corrected analyses show that moralizing gods precede complex societies but serious data concerns remain |   2019 | Beheim et al. | [psyarxiv](https://psyarxiv.com/jwa2n/) |  pdf 
+Historians Respond to Whitehouse et al.(2019)| 2019 | Slingerland et al. | [psyarxiv](https://psyarxiv.com/2amjz/) | pdf 
 
 
-Answer to the two last papers:
+
+Answers from Withouse et al. to the two last papers:
+
 * to Beheim et al: https://osf.io/preprints/socarxiv/xjryt
 * to Slingerland (Historians Respond) : https://osf.io/preprints/socarxiv/t8hgu
 
-various:
+Misc. info and discussions:
 
-* more link and answers to answers:https://twitter.com/PatrickESavage/status/1171222989607559168o
-* Andre costopoulos agrees: https://twitter.com/UncertainArch/status/1171591817596456961
+* On entry point to twitter debate: https://twitter.com/PatrickESavage/status/1171222989607559168o
 
-## Climate Change and Social 
-
-## Effect of Big Revolution on the Eovlution of Society 
+## Human Risk Perception and Climate Change 
 
 
-## Debates and Issues around data (big data, AI generated data,...)
+## Effect of Stress and Intense event on the Evolution of Society
+
+
+## Debates and Issues around data (Big Data, AI generated data,...)
 
 
